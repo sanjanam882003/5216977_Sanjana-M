@@ -7,3 +7,6 @@ int main(){
 double d=0.0;
 }
 //Some code from Task1 Branch
+void main(){
+	print something
+}
